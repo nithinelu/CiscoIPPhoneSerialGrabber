@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# exported phone inventories / target lists - customer data, never commit
+*.xlsx
+*.xlsm
+*.csv
+*.txt
+settings.json
